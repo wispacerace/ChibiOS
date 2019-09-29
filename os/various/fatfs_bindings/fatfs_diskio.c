@@ -6,6 +6,7 @@
 /*-----------------------------------------------------------------------*/
 
 #include "hal.h"
+#include "ff.h"
 #include "ffconf.h"
 #include "diskio.h"
 
